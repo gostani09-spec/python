@@ -1,0 +1,5 @@
+a= int(input("enter first integer: "))
+b= int(input("enter second integer: "))
+c= int(input("enter third integer: "))
+d= int(input("enter fourth integer: "))
+print(f"{a}{b}{c}{d}")
